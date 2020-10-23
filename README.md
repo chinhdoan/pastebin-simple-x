@@ -1,3 +1,1 @@
-# PasteX
-
-php paste bin made by Pluveto.
+#Another version of pastebin
