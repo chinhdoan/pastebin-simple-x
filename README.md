@@ -1,7 +1,7 @@
 <!-- @format -->
 
 # Another paste-bin version
-@chinhdoan :+1: Dont's hesitate to ask me - it's ready to merge! :shipit:
+@chinhdoan :+1: Dont's hesitate to ask me - it's ready to merge! :snowflake:
 
 ## Installation
 
