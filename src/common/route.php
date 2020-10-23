@@ -6,9 +6,9 @@
  */
 
 $apiPost = new \App\Api\Post();
-Flight::route('POST /post', array($apiPost, 'create'));
-Flight::route('GET /post/@id', array($apiPost, 'get'));
+Flight::route('POST ../post', array($apiPost, 'create'));
+Flight::route('GET ../post/@id', array($apiPost, 'get'));
 
 $apiWelcome = new \App\Api\Welcome();
-Flight::route('GET /', array($apiWelcome, 'index'));
+Flight::route('GET ../', array($apiWelcome, 'index'));
 

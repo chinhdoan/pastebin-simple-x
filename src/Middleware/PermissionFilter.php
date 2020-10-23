@@ -119,7 +119,7 @@ class PermissionFilter implements IMiddleware
                     throw new BadRequestException("缺少必要参数 " . (API_DEBUG ? " `$param`."  : "."));
                 }
                 if (empty($form->$param)) {
-                    throw new BadRequestException("提交的必要参数 `$param` 为空值.");
+                    throw new BadRequestException("loi `$param` nhapdaydu.");
                 }
             }
 
